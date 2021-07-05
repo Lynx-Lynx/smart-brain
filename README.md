@@ -1,1 +1,1 @@
-# Face recognition app using Clarifai made via React.
+# Face recognition app using Clarifai, made via React.
